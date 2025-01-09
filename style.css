@@ -1,0 +1,13 @@
+body{
+  background-color: black;
+  color: #fff;
+}
+
+.click-btn{
+padding: 12px; 
+margin: 20px;
+background-color: rgb(98, 89, 89);
+}
+button{
+  cursor: pointer;
+}
