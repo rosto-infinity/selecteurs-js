@@ -24,7 +24,7 @@ const paragraph = document.querySelector('p');
 btn1.addEventListener("click",
   ()=>{
     console.log('Bafoussam'); 
-    paragraph.classList.toggle('paragraphVisible');
+    paragraph.classList.add('paragraphVisible');
     btn1.style.color = 'yellow'
     btn1.style.borderRadius =  '2px'
     btn1.style.padding =  '2px'
